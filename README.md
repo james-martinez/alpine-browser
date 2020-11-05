@@ -1,4 +1,5 @@
 # alpine-browser
+![Github Docker Image CI](https://github.com/james-martinez/alpine-browser/workflows/Github%20Docker%20Image%20CI/badge.svg)
 
 Currenly used with vnc at port 5900
 password: 4321
