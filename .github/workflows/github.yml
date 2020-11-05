@@ -2,8 +2,7 @@ name: Github Docker Image CI
 on:
   push:
   schedule:
-    - cron: '0 0 * * * ''
-
+    - cron: '4 2 * * *'
 jobs:
   chromium:
     runs-on: ubuntu-latest
